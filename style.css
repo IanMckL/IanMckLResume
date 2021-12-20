@@ -1,0 +1,66 @@
+.main_shape{
+  background: #223b4d; 
+  border-radius: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.my_name{
+  padding-left: 40px;
+  padding-top: 40px;
+  text-align: Center;
+  font-family: Georgia, sans-serif;
+  color: white;
+}
+
+.summary_bio{
+  text-align: center;
+  font-family: Georgia, sans-serif;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: solid;
+  border-radius: 30px;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.ygu_logo{
+  max-height:100px;
+}
+
+.work_experience{
+  color: white;
+  font-family: Georgia, sans-serif;
+  margin-left:20px;
+}
+
+.education_bio{
+  color: white;
+  font-family: Georgia, sans-serif;
+  margin-left: 20px;
+}
+
+
+.prof_image{
+ text-align: center; 
+ border-style: solid;
+ color: white;
+ border-radius: 60px;
+ margin-right: 50px;
+ margin-left: 50px;
+ margin-bottom: 50px;
+ display:block; 
+ object-fit: cover;
+}
+
+.contact_info{
+  color: white;
+  font-family: Georgia, sans-serif;
+  text-align: Center
+}
+
+a:link{
+  color: white;
+}
