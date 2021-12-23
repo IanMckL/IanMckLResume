@@ -32,6 +32,8 @@ margin: 10% 20%;
 
 .ygu_logo{
   max-height:100px;
+  width: auto;
+  height: auto;
 }
 
 .work_experience{
