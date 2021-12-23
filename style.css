@@ -55,13 +55,11 @@ background: #ded9c0;
  border-style: solid;
  color: white;
  border-radius: 60px;
- margin-left: auto;
- margin-right: auto;
+ align-items: center;
+ margin-left: 10%;
+ margin-right: 10%;
  padding: 10px; 
- position: relative;
- width: 100%;
- height: 400px;
- overflow:hidden;
+ object-fit: cover;
 }
 
 .contact_info{
