@@ -27,9 +27,6 @@ color: #ded9c0;
   padding-right: 10px;
   border-style: solid;
   border-radius: 30px;
-  margin-right: 50px;
-  margin-left: 50px;
-  margin-bottom: 50px;
 }
 
 .ygu_logo{
@@ -56,6 +53,9 @@ color: #ded9c0;
  border-style: solid;
  color: white;
  border-radius: 60px;
+ margin-right: 50px;
+ margin-left: 50px;
+ margin-bottom: 50px;
  width: auto;
  height: auto;
  display:block; 
