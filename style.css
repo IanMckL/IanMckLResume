@@ -57,7 +57,8 @@ color: #ded9c0;
  margin-left: 50px;
  margin-bottom: 50px;
  display:block; 
- object-fit: fill;
+ width: 100%;
+ height: auto;
 }
 
 .contact_info{
