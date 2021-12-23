@@ -1,3 +1,6 @@
+body{
+margin: 10% 20%; 
+}
 .main_shape{
   background: #223b4d; 
   border-radius: 25px;
