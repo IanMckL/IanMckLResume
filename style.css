@@ -53,9 +53,14 @@ background: #ded9c0;
  border-style: solid;
  color: white;
  border-radius: 60px;
+ max-height: 500px;
  margin-left: 10%;
  margin-right: 10%;
  padding: 10px; 
+ justify-content: center;
+ display: flex;
+ flex-direction: row;
+ overflow: hidden;
 }
 
 .contact_info{
