@@ -8,7 +8,7 @@ background: #ded9c0;
   border-radius: 25px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-bottom: 20%;
+  margin-bottom: 100px;
 }
 
 .my_name{
@@ -29,6 +29,7 @@ background: #ded9c0;
   margin-left: 50px;
   border-style: solid;
   border-radius: 30px;
+  display: block;
 }
 
 .ygu_logo{
