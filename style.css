@@ -6,9 +6,7 @@ background: #ded9c0;
   display: block;
   background: #223b4d; 
   border-radius: 25px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 .my_name{
