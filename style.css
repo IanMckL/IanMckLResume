@@ -53,11 +53,9 @@ background: #ded9c0;
  border-style: solid;
  color: white;
  border-radius: 60px;
- align-items: center;
  margin-left: 10%;
  margin-right: 10%;
  padding: 10px; 
- object-fit: cover;
 }
 
 .contact_info{
