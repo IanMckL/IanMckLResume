@@ -2,11 +2,12 @@ body{
 margin: 10% 20%; 
 }
 .main_shape{
+  display: block;
   background: #223b4d; 
   border-radius: 25px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-bottom: -20%;
+  margin-bottom: 20%;
 }
 
 .my_name{
